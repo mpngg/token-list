@@ -1,35 +1,7 @@
-# Jupiter Token List API
 
-Join the Token Revolution -- Together We List!
+## Deprecated, please try out our new site!
 
-Our validation process is open. To contribute, open a PR with the guidelines below. PRs are reviewed by our community members, and we ask for your patience. 
+We have a new site in beta where you can get a tag for your project from Jupiter's community: https://catdetlist.jup.ag/. Please give it a go!
 
-<hr>
-
-## Validated Tokens List
-
-### Example Fields:  
-- `Name`: Genopets Ki
-- `Symbol`: KI 
-- `Mint Address`: kiGenopAScF8VF31Zbtx2Hg8qA5ArGqvnVtXb83sotc
-- `Decimals`: 9 
-- `LogoURI`: https://arweave.net/WfPR8w5dEoerG_bI3S2o2_nuSfWY3p8M4YbQ6ijd1cQ?ext=png
-- `Community Validated`: true
-
-### Example PR: 
-- Please follow this [sample PR](https://github.com/jup-ag/token-list/pull/24).
-- When you open a new PR, the template will automatically be populated with [the markdown template](https://github.com/jup-ag/token-list/blob/main/pull_request_template.md). Please fill that up.
-
-<hr>
-
-## Banned Tokens List
-Tokens here will not show up on the Jupiter UI, SDK and API.
-
-To propose a ban, please open a PR with the reason and related links in the description.
-
-
-<hr>
-
-## Read More
-- API: https://docs.jup.ag/notes/token-lists-beta
-- Blog: https://blog.jup.ag/token-list-api/
+- Questions? Go to token-list channel in [Jupiter's discord](https://discord.gg/jup)
+- The archived README for this repo is [here](https://github.com/jup-ag/token-list/blob/main/README-archive.md)  
